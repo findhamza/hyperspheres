@@ -6,6 +6,7 @@ Programming Assignment 3
 
 We have discussed approaches to sampling hyperspheres.  The general equation is as follows:
 
+r ← [0,1] ; θ ← [0,2π] ; x = droot(r*cos(θ)) ; y = droot(r*sin(θ))
 
 Where r is the unit radius,  is the angle in radians and d is the dimensionality of the hypersphere.
 
